@@ -35,4 +35,4 @@ The goal of this project is to build a simple and functional student management 
 - File upload support
 
 ## 👩‍💻 Author
-Your Name
+Vishnu Priya Siddu
